@@ -1,6 +1,6 @@
 # readme
 
-  ![img]()
+  ![img](https://raw.githubusercontent.com/adtpgit/readme/main/a.png)
   ## Aditya College
   #  Course Offered 
    *CSE*
